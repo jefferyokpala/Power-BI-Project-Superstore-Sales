@@ -10,7 +10,7 @@ To find the sales and revenue patterns to help the superstore optimize its opera
 
 ## Data Source
 
-I obtained this dataset from Kaggle, and it can be found here
+I obtained this dataset from Kaggle, and it can be found [here](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 ## Tools
 
